@@ -61,3 +61,6 @@ eksctl delete cluster --region=us-west-2 --name=kubernetes-cluster #delete eks c
 terraform destroy -var-file="vars/dev-west-2.tfvars"
 ```````````````````````````````````````````````````````````````
 
+Terraform URL for AWS
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
